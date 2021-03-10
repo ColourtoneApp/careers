@@ -9,6 +9,7 @@
 - past experience developing and maintaining live Android apps
 - experience with Testflight
 - experience with Google Play Store
+- experience with Git & Github
 
 
 

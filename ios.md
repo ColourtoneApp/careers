@@ -14,6 +14,7 @@ Colourtone are recruiting an experience iOS Engineer.
 - past experience developing and maintaining live iOS apps
 - experience with Testflight
 - experience with Apple Connect
+- experience with Git & Github
 
 
 

@@ -2,9 +2,6 @@
 
 # Android Engineer
 
-<img src="assets/icon.png" width="200" alt="Colourtone">
-
-
 #### Must haves:
 - strong **Java** skills
 - experience with **OpenGL**
